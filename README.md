@@ -10,8 +10,8 @@ Open the source code on root folder and open terminal there.
 Or go the root folder of you project using terminal and run command npm install / yarn install.
 
 ## Start project
-# For npm user
+### For npm user
 Run command npm start
 
-# For Yarn user
+### For Yarn user
 Run command yarn start
